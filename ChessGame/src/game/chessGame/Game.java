@@ -182,7 +182,6 @@ public class Game {
 					kingRow = i;
 					kingCol = j;
 					
-					
 				}
 			}
 		}
